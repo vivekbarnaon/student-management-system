@@ -1,0 +1,54 @@
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Build
+target/
+bin/
+build/
+*.class
+*.jar
+*.war
+*.ear
+
+# Gradle
+.gradle/
+gradle/
+
+# Maven
+.m2/
+pom.xml.tag
+pom.xml.asc
+
+# Environment & Configuration
+.env
+.env.local
+*.properties
+config/
+secrets/
+
+# Database
+*.db
+*.sqlite
+*.sql
+
+# Logs
+*.log
+logs/
+
+# Temporary Files
+tmp/
+temp/
+*.tmp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Dependencies
+node_modules/
+vendor/
